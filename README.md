@@ -6,3 +6,4 @@ texto cambiado desde master
 =======
 texto cambiado desde desarrollo
 >>>>>>> desarrollo
+cambio desde otro equipo
